@@ -1,0 +1,29 @@
+run command
+    pip install -r requirements.txt
+
+start the project 
+
+    activate virtual env by running command 
+        dbms/Scripts/activate 
+    go into virtual env by running command
+        cd dbms
+    runsserver by running command
+        python manage.py runserver
+
+then go to this 
+http://127.0.0.1:8000/admin/
+
+email : admin@gmail.com
+passowrd : Admin123
+
+the project is running 
+
+password for student is 
+
+password123
+
+password for  admins is 
+
+password#123
+
+if password for student and teacher does not work make new one by clicking on option
